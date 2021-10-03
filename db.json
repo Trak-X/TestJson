@@ -1,8 +1,8 @@
 {
     "targets": [
         {
-            "id": "Location",
-            "offering": [
+            "type": "Location",
+            "channels": [
                 "Facebook",
                 "Linkedin",
                 "Twitter",
@@ -11,78 +11,101 @@
              ]
         },
         {
-            "id": "Age",
-            "offering":[
+            "type": "Age",
+            "channels":[
                 "Facebook",
                 "Linkedin",
                 "Twitter",
                 "Instagram",
                 "Google AdWords"
              ]
-        }
-    ],
-    "fees": [
-        {
-            "id": "Facebook",
-            "fees": [
-                {
-                    "id": 1,
-                    "values": {
-                        "price": 150,
-                        "options": [
-                            "Facebook",
-                            "Linkedin",
-                            "Twitter",
-                            "Instagram",
-                            "Google AdWords"
-                        ]
-                    }
-                },
-                {
-                    "id": 2,
-                    "values": {
-                        "price": 100,
-                        "options": [
-                            "Facebook",
-                            "Linkedin",
-                            "Twitter",
-                            "Instagram",
-                            "Google AdWords"
-                        ]
-                    }
-                }
-            ]
         },
         {
-            "id": "Linkedin",
-            "fees": [
-                {
-                    "id": 1,
-                    "values": {
-                        "price": 90,
-                        "options": [
-                            "Facebook",
-                            "Linkedin",
-                            "Twitter",
-                            "Instagram",
-                            "Google AdWords"
-                        ]
-                    }
-                },
-                {
-                    "id": 2,
-                    "values": {
-                        "price": 80,
-                        "options": [
-                            "Facebook",
-                            "Linkedin",
-                            "Twitter",
-                            "Instagram",
-                            "Google AdWords"
-                        ]
-                    }
-                }
-            ]
+            "type": "Sex",
+            "channels":[
+                "Facebook",
+                "Linkedin",
+                "Twitter",
+                "Instagram",
+                "Google AdWords"
+             ]
+        },
+        {
+            "type": "Spoken languages",
+            "channels":[
+                "Facebook",
+                "Twitter",
+                "Instagram"
+             ]
+        },
+        {
+            "type": "Events",
+            "channels":[
+                "Facebook",
+                "Twitter"
+             ]
+        },
+        {
+            "type": "Company",
+            "channels":[
+                "Linkedin"
+             ]
+        },
+        {
+            "type": "Industry",
+            "channels":[
+                "Linkedin",
+                "SEO"
+             ]
+        },
+        {
+            "type": "Expertise",
+            "channels":[
+                "Linkedin"
+             ]
+        },
+        {
+            "type": "Education",
+            "channels":[
+                "Linkedin"
+             ]
+        },
+        {
+            "type": "Technology",
+            "channels":[
+                "Twitter"
+             ]
+        },
+        {
+            "type": "Interests",
+            "channels":[
+                "Instagram"
+             ]
+        },
+        {
+            "type": "Device",
+            "channels":[
+                "Google AdWords"
+             ]
+        },
+        {
+            "type": "Keywords",
+            "channels":[
+                "Google AdWords",
+                "SEO"
+             ]
+        },
+        {
+            "type": "Similar products / services",
+            "channels":[
+                "Google AdWords"
+             ]
+        },
+        {
+            "type": "Hyperlinks",
+            "channels":[
+                "SEO"
+             ]
         }
     ]
 }
