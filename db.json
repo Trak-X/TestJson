@@ -2,7 +2,7 @@
     "targets": [
         {
             "id": "Location",
-            "offering":[
+            "offering": [
                 "Facebook",
                 "Linkedin",
                 "Twitter",
@@ -11,7 +11,7 @@
              ]
         },
         {
-            "type": "Age",
+            "id": "Age",
             "offering":[
                 "Facebook",
                 "Linkedin",
@@ -19,6 +19,39 @@
                 "Instagram",
                 "Google AdWords"
              ]
+        }
+    ],
+    "fees": [
+        {
+            "id": "Facebook",
+            "fees": [
+                {
+                    "id": 1,
+                    "values": {
+                        "price": 150,
+                        "options": [
+                            "Facebook",
+                            "Linkedin",
+                            "Twitter",
+                            "Instagram",
+                            "Google AdWords"
+                        ]
+                    }
+                },
+                {
+                    "id": 2,
+                    "values": {
+                        "price": 150,
+                        "options": [
+                            "Facebook",
+                            "Linkedin",
+                            "Twitter",
+                            "Instagram",
+                            "Google AdWords"
+                        ]
+                    }
+                }
+            ]
         }
     ]
 }
