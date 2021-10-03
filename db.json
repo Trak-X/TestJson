@@ -41,7 +41,38 @@
                 {
                     "id": 2,
                     "values": {
-                        "price": 150,
+                        "price": 100,
+                        "options": [
+                            "Facebook",
+                            "Linkedin",
+                            "Twitter",
+                            "Instagram",
+                            "Google AdWords"
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "id": "Linkedin",
+            "fees": [
+                {
+                    "id": 1,
+                    "values": {
+                        "price": 90,
+                        "options": [
+                            "Facebook",
+                            "Linkedin",
+                            "Twitter",
+                            "Instagram",
+                            "Google AdWords"
+                        ]
+                    }
+                },
+                {
+                    "id": 2,
+                    "values": {
+                        "price": 80,
                         "options": [
                             "Facebook",
                             "Linkedin",
