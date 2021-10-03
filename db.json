@@ -107,5 +107,444 @@
                 "SEO"
              ]
         }
+    ],
+    "campaigns": [
+        {
+            "channel": "Facebook",
+            "mfees": [
+                {
+                    "price": 140,
+                    "options": {
+                        "listings": {
+                            "min": 3,
+                            "max": 8
+                        },
+                        "optimizations": 12,
+                        "features": [
+                            "Campaign setup",
+                            "Admin and optimising",
+                            "Email support",
+                            "Monthly reports",
+                            "Install",
+                            "Conversion monitoring",
+                            "Landing page"
+                        ]
+
+                    }    
+                },
+                {
+                    "price": 200,
+                    "options": {
+                        "listings": {
+                            "min": 8,
+                            "max": 15
+                        },
+                        "optimizations": 20,
+                        "features": [
+                            "Campaign setup",
+                            "Admin and optimising",
+                            "Email support",
+                            "Monthly reports",
+                            "Install",
+                            "Conversion monitoring",
+                            "Landing page",
+                            "Phone support",
+                            "Remarketing"
+                        ]
+                    }    
+                },
+                {
+                    "price": 100,
+                    "options": {
+                        "listings": {
+                            "min": 1,
+                            "max": 3
+                        },
+                        "optimizations": 8,
+                        "features": [
+                            "Campaign setup",
+                            "Admin and optimising",
+                            "Email support",
+                            "Monthly reports",
+                            "Install",
+                            "Conversion monitoring"
+                        ]
+                    }    
+                },
+                {
+                    "price": 75,
+                    "options": {
+                        "listings": {
+                            "min": 1,
+                            "max": 1
+                        },
+                        "optimizations": 8,
+                        "features": [
+                            "Campaign setup",
+                            "Admin and optimising",
+                            "Email support",
+                            "Monthly reports"
+                        ]
+                    }    
+                }
+            ]
+        },
+        {
+            "channel": "Linkedin",
+            "mfees": [
+                {
+                    "price": 150,
+                    "options": {
+                        "listings": {
+                            "min": 5,
+                            "max": 8
+                        },
+                        "optimizations": 0,
+                        "features": [
+                            "Campaign setup",
+                            "Admin and optimising",
+                            "Email support",
+                            "Monitoring",
+                            "Monthly reports"
+                        ]
+
+                    }    
+                },
+                {
+                    "price": 180,
+                    "options": {
+                        "listings": {
+                            "min": 8,
+                            "max": 10
+                        },
+                        "optimizations": 0,
+                        "features": [
+                            "Campaign setup",
+                            "Admin and optimising",
+                            "Email support",
+                            "Monitoring",
+                            "Monthly reports",
+                            "Phone support"
+                        ]
+                    }    
+                },
+                {
+                    "price": 90,
+                    "options": {
+                        "listings": {
+                            "min": 1,
+                            "max": 3
+                        },
+                        "optimizations": 0,
+                        "features": [
+                            "Campaign setup",
+                            "Admin and optimising",
+                            "Email support",
+                            "Monthly reports"
+                        ]
+                    }    
+                },
+                {
+                    "price": 60,
+                    "options": {
+                        "listings": {
+                            "min": 1,
+                            "max": 2
+                        },
+                        "optimizations": 0,
+                        "features": [
+                            "Campaign setup",
+                            "Admin and optimising",
+                            "Email support"
+                        ]
+                    }    
+                }
+            ]
+        },
+        {
+            "channel": "Twitter",
+            "mfees": [
+                {
+                    "price": 170,
+                    "options": {
+                        "listings": {
+                            "min": 10,
+                            "max": 15
+                        },
+                        "optimizations": 0,
+                        "features": [
+                            "Campaign setup",
+                            "Campaign auctioning",
+                            "Targeted tweets",
+                            "Email support",
+                            "Admin and optimising",
+                            "Monthly reports"
+                        ]
+                    }    
+                },
+                {
+                    "price": 250,
+                    "options": {
+                        "listings": {
+                            "min": 15,
+                            "max": 20
+                        },
+                        "optimizations": 0,
+                        "features": [
+                            "Campaign setup",
+                            "Campaign auctioning",
+                            "Targeted tweets",
+                            "Email support",
+                            "Admin and optimising",
+                            "Monthly reports",
+                            "Phone support"
+                        ]
+                    }    
+                },
+                {
+                    "price": 120,
+                    "options": {
+                        "listings": {
+                            "min": 5,
+                            "max": 10
+                        },
+                        "optimizations": 0,
+                        "features": [
+                            "Campaign setup",
+                            "Campaign auctioning",
+                            "Targeted tweets",
+                            "Email support",
+                            "Admin and optimising"
+                        ]
+                    }    
+                },
+                {
+                    "price": 80,
+                    "options": {
+                        "listings": {
+                            "min": 1,
+                            "max": 5
+                        },
+                        "optimizations": 0,
+                        "features": [
+                            "Campaign setup",
+                            "Campaign auctioning",
+                            "Targeted tweets",
+                            "Email support"
+                        ]
+                    }    
+                }
+            ]
+        },
+        {
+            "channel": "Instagram",
+            "mfees": [
+                {
+                    "price": 180,
+                    "options": {
+                        "listings": {
+                            "min": 5,
+                            "max": 8
+                        },
+                        "optimizations": 4,
+                        "features": [
+                            "Campaign setup",
+                            "Campaign testing",
+                            "Campaign analysis",
+                            "Email support"
+                        ]
+                    }    
+                },
+                {
+                    "price": 270,
+                    "options": {
+                        "listings": {
+                            "min": 10,
+                            "max": 12
+                        },
+                        "optimizations": 8,
+                        "features": [
+                            "Campaign setup",
+                            "Campaign testing",
+                            "Campaign analysis",
+                            "Monitoring",
+                            "Email support",
+                            "Phone support"
+                        ]
+                    }    
+                },
+                {
+                    "price": 130,
+                    "options": {
+                        "listings": {
+                            "min": 1,
+                            "max": 4
+                        },
+                        "optimizations": 2,
+                        "features": [
+                            "Campaign setup",
+                            "Campaign analysis",
+                            "Email support"
+                        ]
+                    }    
+                },
+                {
+                    "price": 80,
+                    "options": {
+                        "listings": {
+                            "min": 1,
+                            "max": 1
+                        },
+                        "optimizations": 0,
+                        "features": [
+                            "Campaign setup",
+                            "Email support"
+                        ]
+                    }    
+                }
+            ]
+        },
+        {
+            "channel": "Google AdWords",
+            "mfees": [
+                {
+                    "price": 150,
+                    "options": {
+                        "listings": {
+                            "min": 0,
+                            "max": 0
+                        },
+                        "optimizations": 3,
+                        "features": [
+                            "Campaign setup",
+                            "Content creation",
+                            "Admin and monitoring",
+                            "Email support"
+                        ]
+                    }    
+                },
+                {
+                    "price": 230,
+                    "options": {
+                        "listings": {
+                            "min": 0,
+                            "max": 0
+                        },
+                        "optimizations": 5,
+                        "features": [
+                            "Campaign setup",
+                            "Content creation",
+                            "Admin and monitoring",
+                            "Monthly reports",
+                            "Email support",
+                            "Phone support"
+                        ]
+                    }    
+                },
+                {
+                    "price": 90,
+                    "options": {
+                        "listings": {
+                            "min": 0,
+                            "max": 0
+                        },
+                        "optimizations": 1,
+                        "features": [
+                            "Campaign setup",
+                            "Content creation",
+                            "Email support"
+                        ]
+                    }    
+                }
+            ]
+        },
+        {
+            "channel": "SEO",
+            "mfees": [
+                {
+                    "price": 270,
+                    "options": {
+                        "listings": {
+                            "min": 0,
+                            "max": 0
+                        },
+                        "optimizations": 0,
+                        "features": [
+                            "Scope setup",
+                            "Market research",
+                            "Keywords research",
+                            "Content analysis",
+                            "Hyperlinks analysis",
+                            "Local SEO",
+                            "Website optimisation",
+                            "Backlink setup",
+                            "Campaign analysis",
+                            "Email support"
+                        ]
+                    }    
+                },
+                {
+                    "price": 320,
+                    "options": {
+                        "listings": {
+                            "min": 0,
+                            "max": 0
+                        },
+                        "optimizations": 0,
+                        "features": [
+                            "Scope setup",
+                            "Market research",
+                            "Keywords research",
+                            "Content analysis",
+                            "Hyperlinks analysis",
+                            "Local SEO",
+                            "Audit SEO",
+                            "Website optimisation",
+                            "Backlink setup",
+                            "Campaign analysis",
+                            "Email support"
+                        ]
+                    }    
+                },
+                {
+                    "price": 180,
+                    "options": {
+                        "listings": {
+                            "min": 0,
+                            "max": 0
+                        },
+                        "optimizations": 0,
+                        "features": [
+                            "Scope setup",
+                            "Market research",
+                            "Keywords research",
+                            "Content analysis",
+                            "Hyperlinks analysis",
+                            "Local SEO",
+                            "Backlink setup",
+                            "Email support"
+                        ]
+                    }    
+                },
+                {
+                    "price": 110,
+                    "options": {
+                        "listings": {
+                            "min": 0,
+                            "max": 0
+                        },
+                        "optimizations": 0,
+                        "features": [
+                            "Scope setup",
+                            "Market research",
+                            "Keywords research",
+                            "Content analysis",
+                            "Local SEO",
+                            "Email support"
+                        ]
+                    }    
+                }
+            ]
+        }
     ]
 }
