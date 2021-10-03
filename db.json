@@ -1,0 +1,40 @@
+[
+{
+"type": "Location",
+"offering": [
+"Facebook",
+"Linkedin",
+"Twitter",
+"Instagram",
+"Google AdWords"
+]
+},
+{
+"type": "Age",
+"offering": [
+"Facebook",
+"Linkedin",
+"Twitter",
+"Instagram",
+"Google AdWords"
+]
+},
+{
+"type": "Sex",
+"offering": [
+"Facebook",
+"Linkedin",
+"Twitter",
+"Instagram",
+"Google AdWords"
+]
+},
+{
+"type": "Spoken Languages",
+"offering": [
+"Facebook",
+"Twitter",
+"Instagram"
+]
+}
+]
